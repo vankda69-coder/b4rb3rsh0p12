@@ -1,0 +1,6 @@
+{
+  "name": "Oficio Barbería — Administración",
+  "description": "Panel de administración para barbería: gestión de solicitudes de reserva entrantes, aprobación o cancelación de citas y actualización automática del historial de clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
